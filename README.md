@@ -1,6 +1,6 @@
 # easter_memory
-Team ID:58R38JH5SJ＜/br＞
-Apple ID:1441284465＜/br＞
+Team ID:58R38JH5SJ  
+Apple ID:1441284465
 Contact email： naozuo003504@163.com＜/br＞
 
 ![image](http://github.com/sumeimeisu/easter_memory/raw/master/images/1.png)＜/br＞
